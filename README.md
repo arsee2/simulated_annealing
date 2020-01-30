@@ -7,11 +7,11 @@ The second task is find shortest  hamilton cycle for 30 cities of Russia.
 Visualisation folder contains loss changes and visualisation of path choosing for the second task. 
 
 ## Requirenments
-Keras
-Matplotlib
-Scikit-learn
-pyproj
-utm
-pandas
-numpy
-
+Keras <br />
+Matplotlib <br />
+Scikit-learn <br />
+pyproj <br />
+utm <br />
+pandas <br />
+numpy <br />
+ 
